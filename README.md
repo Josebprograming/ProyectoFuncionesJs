@@ -555,4 +555,3 @@ Proyecto Modulo 4/
 - Todos los resultados se muestran en la consola del navegador
 - Los datos se capturan a través de prompts
 - La aplicación valida los datos ingresados para evitar errores
-s
